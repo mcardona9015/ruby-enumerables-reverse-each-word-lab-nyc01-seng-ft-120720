@@ -7,4 +7,4 @@ def reverse_each_word(string)
   new_array.join(' ')
 end
 
-puts reverse_each_word("test string")
+puts reverse_each_word("tacocat?")
